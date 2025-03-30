@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"SF_People2","classId":1,"equips":[0,0,0,2,0],"faceIndex":2,"faceName":"SF_People1","traits":[],"initialLevel":1,"maxLevel":50,"name":"Samson","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,3,0],"faceIndex":6,"faceName":"SF_Actor2","traits":[],"initialLevel":1,"maxLevel":50,"name":"Gryph","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"SF_Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":50,"name":"Johnathon","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":50,"name":"Dylan","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Marqui","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Carson","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Trevor","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"The Boss","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Jack","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Cade","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":50,"name":"Crystal","nickname":"","note":"","profile":""}
+]
